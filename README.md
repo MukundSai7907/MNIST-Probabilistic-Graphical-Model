@@ -7,4 +7,4 @@ In other words, a pixel's parents in the PGM graph are the pixels to the immedia
 
 A simple PGM/conditional independence based classifier is implemented with these assumptions
 
-## Note: Pixels on the left and top edges of the image are considered completly independent and simple Naive Bayes is implemented for them
+Note: Pixels on the left and top edges of the image are considered completly independent and simple Naive Bayes is implemented for them
