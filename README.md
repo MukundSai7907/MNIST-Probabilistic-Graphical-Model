@@ -1,2 +1,4 @@
 # MNIST-Probabilistic-Graphical-Model
-This an implementation of a Probabilistic Graphical Model based technique from scratch on the MNIST dataset
+A Probabilistic Graphical Model (PGM) relies on conditional independence assumption. For this particular case, the conditional independence assumption is as follows:
+
+h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x
